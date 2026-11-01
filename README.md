@@ -1,7 +1,7 @@
 
 <div align="center">
 
-### Hey, I'm Asmita Chakraborty 👋
+### Hey, I'm Asmita Chakraborty
 
 **AI Engineer | Agentic AI & Generative AI | Multi-Agent Systems**
 
